@@ -37,6 +37,9 @@ header h1 {
     text-align: center;
 }
 
+h4{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
 .newspaper-container {
     margin:1rem;
     background-color:#eee;
